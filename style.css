@@ -1,0 +1,6 @@
+.main{
+    grid-template-columns: 200px 200px;
+}
+.dados{
+    background-color: blue;
+}
